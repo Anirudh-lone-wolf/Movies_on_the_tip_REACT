@@ -1,0 +1,19 @@
+.container {
+  margin: 2em;
+}
+
+a {
+  color: #0099ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #104274;
+}
+
+code {
+  padding: 0.5rem;
+  margin: 0rem 0.2rem;
+  border-radius: 0.2rem;
+  background: #e5e9f0;
+}
